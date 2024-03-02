@@ -1,13 +1,13 @@
 filename = 'CraftPresence-2.3.0+1.19.2.jar'
 name = 'CraftPresence'
-side = 'both'
+side = 'client'
 
 [download]
-hash = '0905e7f9bf7b8da1698087c7c9dd2087ae8cebec'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '9ee5f5a97d5f5a75c67be0c8f70f48701ed4963c67de8034c1093b5f3ac5c11c68006862456ac07ce48d2f207be17ff1b22172b7f9ea620ea802a2e7fa11db77'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DFqQfIBR/versions/Ig8MFSdQ/CraftPresence-2.3.0%2B1.19.2.jar'
 
-[update.curseforge]
-file-id = 5087398
-project-id = 297038
+[update.modrinth]
+mod-id = 'DFqQfIBR'
+version = 'Ig8MFSdQ'
