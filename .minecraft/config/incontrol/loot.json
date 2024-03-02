@@ -1,0 +1,104 @@
+[
+  {
+    "mob": "minecraft:zombie",
+    "item": ["minecraft:golden_apple", "minecraft:gold_ingot", "minecraft:iron_ingot"],
+    "itemcount": "0-1/1-2/1-3",
+    "random": 0.42,
+    "removeall": true,
+    "helditem": [
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_hoe",
+      "minecraft:wooden_sword",
+
+      "minecraft:stone_shovel",
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_axe",
+      "minecraft:stone_hoe",
+      "minecraft:stone_sword",
+      
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe",
+      "minecraft:iron_sword",
+      
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_hoe",
+      "minecraft:diamond_sword"
+    ]
+  },
+    {
+    "mob": "minecraft:zombie",
+    "item": "minecraft:golden_apple",
+    "itemcount": "1",
+    "removeall": true,
+    "random": 0.56,
+    "helditem": [
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_axe",
+      "minecraft:golden_hoe",
+      "minecraft:golden_sword",
+
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe",
+      "minecraft:netherite_sword"
+    ]
+  },
+  {
+    "mob": "minecraft:zombie",
+    "item": "moguns:9x19",
+    "itemcount": "0-6",
+    "random": 0.25
+  },
+  {
+    "mob": "minecraft:zombie",
+    "item": "moguns:762x39",
+    "itemcount": "0-4",
+    "random": 0.18
+  },
+  {
+    "mob": "minecraft:zombie",
+    "item": "minecraft:golden_apple",
+    "itemcount": "0-1",
+    "random": 0.14,
+    "removeall": true
+  },
+  {
+    "mob": "minecraft:zombie",
+    "item": "minecraft:gold_ingot",
+    "itemcount": "0-1",
+    "random": 0.16
+  },
+  {
+    "mob": "minecraft:zombie",
+    "item": "minecraft:fermented_spider_eye",
+    "itemcount": "0-2",
+    "random": 0.28
+  },
+  {
+    "mob": "minecraft:zombie",
+    "item": "moguns:garbage",
+    "itemcount": "0-1",
+    "random": 0.1,
+    "removeall": true
+  },
+  {
+    "mob": "minecraft:zombie",
+    "item": "minecraft:gunpowder",
+    "itemcount": "0-3",
+    "random": 0.35
+  },
+  {
+    "mob": "minecraft:zombie",
+    "item": "firstaid:plaster",
+    "itemcount": "0-3",
+    "random": 0.38
+  }
+]

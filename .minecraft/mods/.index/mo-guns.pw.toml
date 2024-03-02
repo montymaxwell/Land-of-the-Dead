@@ -1,0 +1,13 @@
+filename = 'MoGuns-1.9.2-1.19.2.jar'
+name = "Mo' Guns"
+side = 'both'
+
+[download]
+hash = '3a412d366516bf98c8bf8ab9f5f215c849d15b859070c0e8c56a67f395a20baac8605e48c560e02fc4b38b675c2127e9e867a2d18214e11456df5ce010005ded'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tFkFJ8qg/versions/GkoyGsI0/MoGuns-1.9.2-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'tFkFJ8qg'
+version = 'GkoyGsI0'

@@ -1,0 +1,13 @@
+filename = 'nobz-1.19.2.jar'
+name = 'No Baby Zombies'
+side = 'both'
+
+[download]
+hash = '3a83b068837c4cf98af3e81b96e3ff8e54bd2fda7f83a936c748f3c615aa358097765832b8cd2555e0613f9ea07f5e94c450c829c93bd212522cf133be6066f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U0cKSBLj/versions/9RQ1Zu7A/nobz-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'U0cKSBLj'
+version = '9RQ1Zu7A'

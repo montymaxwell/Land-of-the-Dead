@@ -1,0 +1,13 @@
+filename = 'bunker-down 1-1-4- 1-19-2.jar'
+name = 'Bunker Down'
+side = 'both'
+
+[download]
+hash = '83849346f59f150c7538aa0071b58e0a8f8f5182'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4567454
+project-id = 628560

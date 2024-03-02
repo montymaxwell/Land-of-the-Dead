@@ -1,0 +1,13 @@
+filename = '[1.19.2] SecurityCraft v1.9.6.1.jar'
+name = 'SecurityCraft'
+side = 'both'
+
+[download]
+hash = '7986fe8e415529d2c138d68dc151139ab0c72e0402ea0b6476d922b45d08f302b2c4da32dba03a6a1bd05a3cc4aec4ae721a7b3da6de8fcbf240b372e9fd0768'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/v8jzRtAt/versions/DcU219qe/%5B1.19.2%5D SecurityCraft v1.9.6.1.jar'
+
+[update.modrinth]
+mod-id = 'v8jzRtAt'
+version = 'DcU219qe'

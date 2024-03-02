@@ -1,0 +1,13 @@
+filename = 'The-Hordes-1.19.2-1.2.3.jar'
+name = 'The Hordes'
+side = 'both'
+
+[download]
+hash = '42c418f5343690405dc0d8438b3df1b92680e737a88573fbc92722e954b096187e9f908dfea7c857fc97b54dc9fd3fc1853001c505051bfa377a5bea5a2062d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O3HDffUR/versions/k3jO3ymf/The-Hordes-1.19.2-1.2.3.jar'
+
+[update.modrinth]
+mod-id = 'O3HDffUR'
+version = 'k3jO3ymf'

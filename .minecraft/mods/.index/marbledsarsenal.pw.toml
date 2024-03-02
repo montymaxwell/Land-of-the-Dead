@@ -1,0 +1,13 @@
+filename = 'marbledsarsenal-1.19.2-2.1.0bPATCH.jar'
+name = "Marbled's Arsenal [MA]"
+side = 'both'
+
+[download]
+hash = '6cf5ca48e4b31ea4d462476dddb25140f07518fa7996de8b18a64ffbf7c9790da3e8e886aefbc5e916291b64fa798ba8e8ea3624392bb057646a2019ed5a601d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GBB5TIXx/versions/D2htEQCD/marbledsarsenal-1.19.2-2.1.0bPATCH.jar'
+
+[update.modrinth]
+mod-id = 'GBB5TIXx'
+version = 'D2htEQCD'

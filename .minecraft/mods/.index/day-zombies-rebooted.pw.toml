@@ -1,0 +1,13 @@
+filename = 'Dayzombies_rebooted-1.0.5_1.19.2.jar'
+name = 'Day Zombies Rebooted'
+side = 'both'
+
+[download]
+hash = '33c2c41d82a7176acd5404cbaa4e735e82179154'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4803313
+project-id = 650291

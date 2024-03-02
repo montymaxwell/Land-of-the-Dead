@@ -1,0 +1,174 @@
+
+[
+  {
+    "phase": "day_5",
+    "mob": "minecraft:zombie",
+    "armorhelmet": "marbledsarsenal:hazmat_armor_helmet",
+    "armorchest": "marbledsarsenal:hazmat_armor_chestplate",
+    "armorlegs": "marbledsarsenal:hazmat_armor_leggings",
+    "armorboots": "marbledsarsenal:hazmat_armor_boots",
+    "random": 0.08,
+    "nbt": {
+      "Health": 12,
+      "Attributes": [
+        {
+          "Base": 0.20,
+          "Modifiers": [
+            {
+              "Operation": 2,
+              "Amount": -0.5,
+              "Name": "effect.moveSlowdown 0"
+            }
+          ],
+          "Name": "generic.movement_speed"
+        },
+        {
+          "Base": 0.38,
+          "Name": "generic.attack_damage"
+        },
+        {
+          "Base": 12,
+          "Name": "generic.max_health"
+        }
+      ]
+    },
+    "result": "default"
+  },
+  {
+    "phase": "day_5",
+    "mob": "minecraft:zombie",
+    "armorhelmet": ["marbledsarsenal:combat_helmet"],
+    "armorchest": ["marbledsarsenal:black_plate_carrier_t1", "marbledsarsenal:swat_armor_chestplate"],
+    "random": 0.04,
+    "nbt": {
+      "Health": 12,
+      "Attributes": [
+        {
+          "Base": 0.20,
+          "Modifiers": [
+            {
+              "Operation": 2,
+              "Amount": -0.5,
+              "Name": "effect.moveSlowdown 0"
+            }
+          ],
+          "Name": "generic.movement_speed"
+        },
+        {
+          "Base": 0.38,
+          "Name": "generic.attack_damage"
+        },
+        {
+          "Base": 12,
+          "Name": "generic.max_health"
+        }
+      ]
+    },
+    "result": "default"
+  },
+  {
+    "phase": "day_5",
+    "mob": "minecraft:zombie",
+    "armorhelmet": "marbledsarsenal:riot_armor_helmet",
+    "armorchest": "marbledsarsenal:riot_armor_chestplate",
+    "armorlegs": "marbledsarsenal:riot_armor_leggings",
+    "armorboots": "marbledsarsenal:riot_armor_boots",
+    "random": 0.01,
+    "nbt": {
+      "Health": 16,
+      "Attributes": [
+        {
+          "Base": 0.16,
+          "Modifiers": [
+            {
+              "Operation": 2,
+              "Amount": -0.85,
+              "Name": "effect.moveSlowdown 0"
+            }
+          ],
+          "Name": "generic.movement_speed"
+        },
+        {
+          "Base": 0.48,
+          "Name": "generic.attack_damage"
+        },
+        {
+          "Base": 16,
+          "Name": "generic.max_health"
+        }
+      ]
+    },
+    "result": "default"
+  },
+  {
+    "phase": "day_5",
+    "mob": "minecraft:zombie",
+    "nbt": {
+      "Health": 12,
+      "Attributes": [
+        {
+          "Base": 0.23,
+          "Modifiers": [
+            {
+              "Operation": 2,
+              "Amount": -0.5,
+              "Name": "effect.moveSlowdown 0"
+            }
+          ],
+          "Name": "generic.movement_speed"
+        },
+        {
+          "Base": 0.38,
+          "Name": "generic.attack_damage"
+        },
+        {
+          "Base": 12,
+          "Name": "generic.max_health"
+        }
+      ]
+    },
+    "result": "default"
+  },
+  {
+    "mob": "roamers:roamer",
+    "result": "default",
+    "nbt": {
+      "Health": 14,
+      "Attributes": [
+        {
+          "Base": 14,
+          "Name": "generic.max_health"
+        }
+      ]
+    }
+  },
+  {
+    "mob": "roamers:bandit",
+    "result": "default",
+    "nbt": {
+      "Health": 14,
+      "Attributes": [
+        {
+          "Base": 14,
+          "Name": "generic.max_health"
+        }
+      ]
+    }
+  },
+  {
+    "passive": true,
+    "result": "default"
+  },
+  {
+    "mob": "minecraft:phantom",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:guardian",
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  }
+]

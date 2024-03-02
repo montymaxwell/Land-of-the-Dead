@@ -1,0 +1,13 @@
+filename = 'marbledsapi-1.19.2-1.0.5.jar'
+name = "Marbled's API [MAPI]"
+side = 'both'
+
+[download]
+hash = '684cd2df72b50a5f3eac5cd9fe5a67eace9ab7be09ec7ad3be79dde6f80a3b74039bb441432a56be3079048a0a5f0f5bfc8626cd61b0608c840110bd6bab7330'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/518JYCyS/versions/KvvJmKF7/marbledsapi-1.19.2-1.0.5.jar'
+
+[update.modrinth]
+mod-id = '518JYCyS'
+version = 'KvvJmKF7'

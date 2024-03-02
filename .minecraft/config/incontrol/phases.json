@@ -1,0 +1,14 @@
+[
+  {
+    "name": "day_5",
+    "conditions": {
+      "mindaycount": 5
+    }
+  },
+  {
+    "name": "day_10",
+    "conditions": {
+      "mindaycount": 10
+    }
+  }
+]

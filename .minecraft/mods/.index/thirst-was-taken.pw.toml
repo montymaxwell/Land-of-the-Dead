@@ -1,0 +1,13 @@
+filename = 'ThirstWasTaken-1.19.2-1.3.6.jar'
+name = 'Thirst Was Taken'
+side = 'both'
+
+[download]
+hash = '566193e2a53f3cf1dba9f9d654697c4dbe3058d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5071552
+project-id = 679270

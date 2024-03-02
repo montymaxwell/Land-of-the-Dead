@@ -1,0 +1,13 @@
+filename = 'blur-forge-3.1.1+mc1.19.2.jar'
+name = 'Blur Forge (Unofficial)'
+side = 'client'
+
+[download]
+hash = 'f70a16a9df0200c4354b5363a8ba55942e88ed9ac5e15c2154e8d4e48508d957e6035971a9d06c1cbc448b0101acc6a97ba86390efd25c6ecf15209c135750f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/o4Wx4DUB/versions/L36sHgCZ/blur-forge-3.1.1%2Bmc1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'o4Wx4DUB'
+version = 'L36sHgCZ'

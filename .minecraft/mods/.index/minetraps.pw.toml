@@ -1,0 +1,13 @@
+filename = 'MineTraps-1.19.x-(v.2.2.4).jar'
+name = 'MineTraps'
+side = 'both'
+
+[download]
+hash = 'ec9505e556fa94be5db4e4701e2ad8012d54390c245a845afdb5d759d8bab7ca8b57744fcbfa731f65932a73453af9c33d24b3a8986020432f47e215477e02b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1TVTyRG9/versions/sN62KC6Z/MineTraps-1.19.x-%28v.2.2.4%29.jar'
+
+[update.modrinth]
+mod-id = '1TVTyRG9'
+version = 'sN62KC6Z'

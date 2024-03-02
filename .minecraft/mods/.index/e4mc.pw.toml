@@ -1,0 +1,13 @@
+filename = 'e4mc-4.0.1+1.19.4-forge.jar'
+name = 'e4mc'
+side = 'both'
+
+[download]
+hash = '927dec38f8279b89bd03a9d65adeddf01be0da91'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4715352
+project-id = 849519

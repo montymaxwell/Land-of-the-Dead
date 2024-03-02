@@ -1,0 +1,13 @@
+filename = 'AmbientEnvironment-forge-1.19.2-8.0+3.jar'
+name = 'Ambient Environment'
+side = 'client'
+
+[download]
+hash = '92360db544baf4fb92be222409daefa3a3bc7503153ecb7bf684b6697ef62ae5b6729700debe08a502f21fd0e762e153b3248f7cb1a99d609dee0d1c48cde26e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DyTvM1dv/versions/qi3AoGA2/AmbientEnvironment-forge-1.19.2-8.0%2B3.jar'
+
+[update.modrinth]
+mod-id = 'DyTvM1dv'
+version = 'qi3AoGA2'
