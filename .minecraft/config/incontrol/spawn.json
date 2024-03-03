@@ -1,5 +1,21 @@
-
 [
+  {
+    "passive": true,
+    "result": "default"
+  },
+  {
+    "mob": ["minecraft:squid"],
+    "result": "default"
+  },
+  {
+    "mob": ["minecraft:guardian", "minecaft:phantom", "minecraft:skeleton", "minecraft:creeper", "minecraft:spider", "minecraft:cave_spider"],
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:enderman"],
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  }, 
   {
     "phase": "day_5",
     "mob": "minecraft:zombie",

@@ -1,0 +1,13 @@
+filename = 'cccbridge-mc1.19.2-forge-v1.5.1.jar'
+name = 'CC:C Bridge'
+side = 'both'
+
+[download]
+hash = 'f3655f3eb8c844b862f20e0bdd8fdd2a8ce6e03a340b328632a92206b229d706c769a1c72ef8a2b26aecb95afd7bb7193edda05e1ee6510d8a4a0733a050c90d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fXt291FO/versions/48CSf0v7/cccbridge-mc1.19.2-forge-v1.5.1.jar'
+
+[update.modrinth]
+mod-id = 'fXt291FO'
+version = '48CSf0v7'
