@@ -154,21 +154,5 @@
         }
       ]
     }
-  },
-  {
-    "passive": true,
-    "result": "default"
-  },
-  {
-    "mob": "minecraft:phantom",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:guardian",
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "result": "deny"
   }
 ]
