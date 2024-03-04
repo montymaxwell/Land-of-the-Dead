@@ -19,13 +19,13 @@
   {
     "phase": "day_5",
     "mob": "minecraft:zombie",
-    "attempts": 20,
+    "attempts": 3,
     "amount": {
-      "minimum": 8,
-      "maximum": 32,
+      "minimum": 3,
+      "maximum": 16,
       "groupdistance": 3
     },
-    "persecond": 0.5,
+    "persecond": 0.8,
     "conditions": {
       "dimension": "minecraft:overworld",
       "maxthis": 20,

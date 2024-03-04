@@ -13,6 +13,22 @@
     "result": "deny"
   }, 
   {
+    "phase": "day_0",
+    "mob": [
+      "minecraft:zombie", 
+      "minecraft:zombie_villager",
+      "rottencreatures:undead_miner",
+      "rottencreatures:burned",
+      "rottencreatures:frostbitten",
+      "rottencreatures:swampy",
+      "rottencreatures:mummy",
+      "rottencreatures:glacial_hunter",
+      "rottencreatures:dead_beared",
+      "rottencreatures:immortal"
+    ],
+    "result": "deny"
+  },
+  {
     "phase": "day_5",
     "mob": "minecraft:zombie",
     "armorhelmet": "marbledsarsenal:hazmat_armor_helmet",
