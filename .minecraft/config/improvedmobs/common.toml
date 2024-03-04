@@ -229,10 +229,10 @@ Sound = false
 ]
 #Chance for mobs to have an item in offhand
 #Range: 0.0 ~ 1.0
-"Item Equip Chance" = 0.05
+"Item Equip Chance" = 0
 #Adds additional x*difficulty% to base item chance
 #Range: 0.0 ~ 1.7976931348623157E308
-"Item Chance add" = 0.2
+"Item Chance add" = 0
 #Should mobs drop the armor equipped through this mod? Will not change drops if the mob obtained the armor through other means (e.g. vanilla)
 "Should drop equipment" = false
 
