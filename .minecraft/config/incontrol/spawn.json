@@ -1,6 +1,14 @@
 [
   {
     "passive": true,
+    "nbt": {
+      "Attributes": [
+        {
+          "Base": 0.56,
+          "Name": "generic.attack_damage"
+        }
+      ]
+    },
     "result": "default"
   },
   {

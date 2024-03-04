@@ -1,7 +1,18 @@
 [
   {
     "phase": "day_0",
-    "mob": "minecraft:zombie",
+    "mob": [
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "rottencreatures:undead_miner",
+      "rottencreatures:burned",
+      "rottencreatures:frostbitten",
+      "rottencreatures:swampy",
+      "rottencreatures:mummy",
+      "rottencreatures:glacial_hunter",
+      "rottencreatures:dead_beared",
+      "rottencreatures:immortal"
+    ],
     "attempts": 0,
     "amount": {
       "minimum": 0,
@@ -18,8 +29,19 @@
   },
   {
     "phase": "day_5",
-    "mob": "minecraft:zombie",
-    "attempts": 3,
+    "mob": [
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "rottencreatures:undead_miner",
+      "rottencreatures:burned",
+      "rottencreatures:frostbitten",
+      "rottencreatures:swampy",
+      "rottencreatures:mummy",
+      "rottencreatures:glacial_hunter",
+      "rottencreatures:dead_beared",
+      "rottencreatures:immortal"
+    ],
+    "attempts": 4,
     "amount": {
       "minimum": 3,
       "maximum": 16,
@@ -35,8 +57,19 @@
   },
   {
     "phase": "day_10",
-    "mob": "minecraft:zombie",
-    "attempts": 10,
+    "mob": [
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "rottencreatures:undead_miner",
+      "rottencreatures:burned",
+      "rottencreatures:frostbitten",
+      "rottencreatures:swampy",
+      "rottencreatures:mummy",
+      "rottencreatures:glacial_hunter",
+      "rottencreatures:dead_beared",
+      "rottencreatures:immortal"
+    ],
+    "attempts": 12,
     "amount": {
       "minimum": 3,
       "maximum": 16,
