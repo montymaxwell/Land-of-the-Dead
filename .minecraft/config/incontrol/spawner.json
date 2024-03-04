@@ -1,5 +1,22 @@
 [
   {
+    "phase": "day_0",
+    "mob": "minecraft:zombie",
+    "attempts": 0,
+    "amount": {
+      "minimum": 0,
+      "maximum": 0,
+      "groupdistance": 3
+    },
+    "persecond": 0,
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "maxthis": 20,
+      "mindist": 20,
+      "maxdist": 50
+    }
+  },
+  {
     "phase": "day_5",
     "mob": "minecraft:zombie",
     "attempts": 20,

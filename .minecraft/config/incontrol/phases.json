@@ -1,5 +1,12 @@
 [
   {
+    "name": "day_0",
+    "conditions": {
+      "mindaycount": 0,
+      "maxdaycount": 5
+    }
+  },
+  {
     "name": "day_5",
     "conditions": {
       "mindaycount": 5
