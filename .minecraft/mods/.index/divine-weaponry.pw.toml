@@ -1,0 +1,13 @@
+filename = 'Divine Weaponry v1.4 1.19.2.jar'
+name = 'Divine Weaponry - Better Combat'
+side = 'both'
+
+[download]
+hash = '8249ef1d436c49d436109a301196caffdd68e7e2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4722001
+project-id = 852492
