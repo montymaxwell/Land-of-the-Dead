@@ -32,14 +32,7 @@
     "mob": [
       "minecraft:zombie",
       "minecraft:zombie_villager",
-      "rottencreatures:undead_miner",
-      "rottencreatures:burned",
-      "rottencreatures:frostbitten",
-      "rottencreatures:swampy",
-      "rottencreatures:mummy",
-      "rottencreatures:glacial_hunter",
-      "rottencreatures:dead_beared",
-      "rottencreatures:immortal"
+      "rottencreatures:undead_miner"
     ],
     "attempts": 4,
     "amount": {

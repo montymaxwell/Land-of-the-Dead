@@ -184,7 +184,7 @@
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
       "largeImageText": "Created by: MontyMaxwell",
       "smallImageKey": "icon",
-      "smallImageText": "version: 0.8",
+      "smallImageText": "version: 0.8.0.3",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {

@@ -12,29 +12,88 @@
     "result": "default"
   },
   {
-    "mob": ["minecraft:squid"],
+    "mob": [
+      "minecraft:squid"
+    ],
     "result": "default"
   },
   {
-    "mob": ["minecraft:enderman"],
+    "mob": [
+      "minecraft:enderman"
+    ],
     "dimension": "minecraft:overworld",
     "result": "deny"
-  }, 
+  },
+  {
+    "biome": [
+      "minecraft:beach",
+      "minecraft:forest",
+      "minecraft:plains",
+      "minecraft:desert",
+      "minecraft:savana",
+      "minecraft:dark_forest",
+      "minecraft:birch_forest"
+    ],
+    "mob": [
+      "rottencreatures:zap",
+      "rottencreatures:mummy",
+      "rottencreatures:burned",
+      "rottencreatures:swampy",
+      "rottencreatures:immortal",
+      "rottencreatures:frostbitten",
+      "rottencreatures:dead_beared",
+      "rottencreatures:glacial_hunter"
+    ],
+    "result": "deny"
+  },
   {
     "phase": "day_0",
     "mob": [
-      "minecraft:zombie", 
+      "minecraft:zombie",
       "minecraft:zombie_villager",
       "rottencreatures:undead_miner",
-      "rottencreatures:burned",
-      "rottencreatures:frostbitten",
-      "rottencreatures:swampy",
+      "rottencreatures:zap",
       "rottencreatures:mummy",
-      "rottencreatures:glacial_hunter",
+      "rottencreatures:burned",
+      "rottencreatures:swampy",
+      "rottencreatures:immortal",
+      "rottencreatures:frostbitten",
       "rottencreatures:dead_beared",
-      "rottencreatures:immortal"
+      "rottencreatures:glacial_hunter"
     ],
     "result": "deny"
+  },
+  {},
+  {
+    "phase": "day_10",
+    "biome": [
+      "minecraft:snowy_plains",
+      "minecraft:snowy_beach",
+      "minecraft:snowy_slopes",
+      "minecraft:snowy_taiga",
+      "minecraft:frozen_ocean",
+      "minecraft:frozen_peaks",
+      "minecraft:frozen_river",
+      "minecraft:ice_spikes"
+    ],
+    "mob": "rottencreatures:glacial_hunter",
+    "result": "default"
+  },
+  {
+    "phase": "day_10",
+    "biome": [
+      "minecraft:swamp"
+    ],
+    "mob": "rottencreatures:swampy",
+    "result": "default"
+  },
+  {
+    "phase": "day_10",
+    "biome": [
+      "minecraft:beach"
+    ],
+    "mob": "rottencreatures:dead_beared",
+    "result": "default"
   },
   {
     "phase": "day_5",
@@ -73,8 +132,13 @@
   {
     "phase": "day_5",
     "mob": "minecraft:zombie",
-    "armorhelmet": ["marbledsarsenal:combat_helmet"],
-    "armorchest": ["marbledsarsenal:black_plate_carrier_t1", "marbledsarsenal:swat_armor_chestplate"],
+    "armorhelmet": [
+      "marbledsarsenal:combat_helmet"
+    ],
+    "armorchest": [
+      "marbledsarsenal:black_plate_carrier_t1",
+      "marbledsarsenal:swat_armor_chestplate"
+    ],
     "random": 0.04,
     "nbt": {
       "Health": 12,
